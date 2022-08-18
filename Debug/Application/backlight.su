@@ -1,0 +1,3 @@
+backlight.c:16:6:BACKLIGHT_Init	8	static
+backlight.c:22:6:BACKLIGHT_Set	16	static
+backlight.c:48:9:BACKLIGHT_Get	4	static

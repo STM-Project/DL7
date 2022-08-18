@@ -1,0 +1,2 @@
+historicalData.c:17:6:HIST_DATA_Init	24	static
+historicalData.c:26:6:HIST_DATA_AddNew	16	static

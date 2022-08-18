@@ -1,0 +1,12 @@
+EDIT_double.c:11:6:EDIT_SetDouble	48	static
+EDIT_double.c:18:6:EDIT_SetFloat	48	static
+EDIT_double.c:25:6:EDIT_SetInt	40	static
+EDIT_double.c:33:6:EDIT_SetShortStringDouble	48	static
+EDIT_double.c:47:6:EDIT_SetLongStringDouble	48	static
+EDIT_double.c:82:6:EDIT_SetShortFloat	48	static
+EDIT_double.c:108:6:EDIT_SetLongFloat	48	static
+EDIT_double.c:134:7:EDIT_GetFlaot	40	static
+EDIT_double.c:142:6:TEXT_SetDouble	48	static
+EDIT_double.c:149:6:TEXT_SetFloat	48	static
+EDIT_double.c:157:6:TEXT_SetShortFloat	48	static
+EDIT_double.c:183:6:TEXT_SetFloatTirmmed	48	static

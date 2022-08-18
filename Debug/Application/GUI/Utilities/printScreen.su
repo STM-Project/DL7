@@ -1,0 +1,2 @@
+printScreen.c:25:13:_WriteBytes2File	24	static
+printScreen.c:38:6:PrintScreen	928	static,ignoring_inline_asm

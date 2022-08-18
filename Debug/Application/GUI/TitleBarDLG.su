@@ -1,0 +1,3 @@
+TitleBarDLG.c:80:13:_cbTitleBarDialog	56	static
+TitleBarDLG.c:393:9:CreateTitleBar	16	static
+TitleBarDLG.c:400:6:loadTitleBarWindowGraphicsToRAM	8	static

@@ -1,0 +1,8 @@
+i2c.c:33:6:MX_I2C1_Init	8	static
+i2c.c:74:6:MX_I2C2_Init	8	static
+i2c.c:115:6:HAL_I2C_MspInit	240	static
+i2c.c:193:6:HAL_I2C_MspDeInit	16	static
+i2c.c:242:6:FRAM_Deinit	32	static
+i2c.c:257:6:SetFramPinTest	16	static
+i2c.c:262:6:ResetFramPinTest	8	static
+i2c.c:268:6:ToogleFramPin	8	static

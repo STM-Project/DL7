@@ -1,0 +1,17 @@
+SetCommunicationDLG.c:67:5:ParsingIP	56	static
+SetCommunicationDLG.c:105:5:CheckIPCorrectness	40	static
+SetCommunicationDLG.c:164:6:_cbSetCommunicationDialog	80	static
+SetCommunicationDLG.c:351:6:_cbDialogModbusTCP	40	static
+SetCommunicationDLG.c:389:13:_cbDialogETH	72	static
+SetCommunicationDLG.c:535:13:_cbDialogCOM	56	static
+SetCommunicationDLG.c:631:13:_cbDialogEMAIL	40	static
+SetCommunicationDLG.c:670:9:CreateSetCommunication	32	static
+SetCommunicationDLG.c:679:16:CreateSetModbusTCP	32	static
+SetCommunicationDLG.c:687:16:CreateSetComETH	32	static
+SetCommunicationDLG.c:695:16:CreateSetComRS	32	static
+SetCommunicationDLG.c:703:16:CreateSetEmail	32	static
+SetCommunicationDLG.c:711:12:CheckETHSettings	16	static
+SetCommunicationDLG.c:727:12:CheckRSSettings	16	static
+SetCommunicationDLG.c:737:12:CheckModbusTCPRegisterSettings	16	static
+SetCommunicationDLG.c:748:12:CheckModbusTCPServerSettings	16	static
+SetCommunicationDLG.c:760:12:CheckEmailSettings	24	static

@@ -1,0 +1,14 @@
+fram.c:17:13:FRAM_I2C_Init	8	static
+fram.c:22:13:FRAM_I2C_Error	8	static
+fram.c:30:13:FRAM_I2C_WriteData	40	static
+fram.c:45:13:FRAM_I2C_WriteData_IT	32	static
+fram.c:60:13:FRAM_I2C_WriteBuffer	40	static
+fram.c:75:16:FRAM_I2C_ReadData	40	static
+fram.c:92:16:FRAM_I2C_ReadBuffer	40	static
+fram.c:113:6:FRAM_Init	8	static
+fram.c:118:6:FRAM_Write	16	static
+fram.c:123:6:FRAM_Write_IT	16	static
+fram.c:128:9:FRAM_Read	16	static
+fram.c:133:6:FRAM_WriteMultiple	16	static
+fram.c:138:10:FRAM_ReadMultiple	16	static
+fram.c:143:10:EraseFRAM	16	static

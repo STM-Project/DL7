@@ -1,0 +1,3 @@
+http_requests.c:20:6:sendSimpleHTTPResponse	32	static
+http_requests.c:40:6:http_server_serve_logged	2128	static
+http_requests.c:157:7:http_server_serve_not_logged	184	static

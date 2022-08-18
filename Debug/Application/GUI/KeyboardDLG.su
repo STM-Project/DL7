@@ -1,0 +1,17 @@
+KeyboardDLG.c:254:6:SetCapslockOn	8	static
+KeyboardDLG.c:259:13:_cbKeyboardDialog	40	static
+KeyboardDLG.c:534:13:CleanUpKeyboardButtons	24	static
+KeyboardDLG.c:540:13:setButtons	64	static
+KeyboardDLG.c:665:13:setNumButtons	56	static
+KeyboardDLG.c:702:13:setNumKeyButtons	64	static
+KeyboardDLG.c:744:13:setNumKeyButtonsExtended	64	static
+KeyboardDLG.c:794:6:setKeyboard	48	static
+KeyboardDLG.c:843:6:setNumKeyboard	48	static
+KeyboardDLG.c:884:6:setNumKeyboardExtended	48	static
+KeyboardDLG.c:928:13:CloseKeyboardWindow	24	static
+KeyboardDLG.c:956:13:CloseKeyboardWindowFormula	320	static
+KeyboardDLG.c:992:9:GetKeyboardHandle	4	static
+KeyboardDLG.c:997:6:deleteKeyboard	8	static
+KeyboardDLG.c:1007:13:setLanguage	24	static
+KeyboardDLG.c:1063:13:EraseWhiteSpaceFromString	16	static
+KeyboardDLG.c:1071:6:CorrectNullString	16	static

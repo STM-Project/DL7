@@ -1,0 +1,8 @@
+SetUserScreensDLG.c:143:13:_cbSetUserTableDialog	96	static
+SetUserScreensDLG.c:259:13:_cbSetUserTrendsDialog	96	static
+SetUserScreensDLG.c:416:13:_cbSetUserScreensDialog	56	static
+SetUserScreensDLG.c:507:13:_cbSetUserData	80	static
+SetUserScreensDLG.c:622:9:CreateSetUserScreens	32	static
+SetUserScreensDLG.c:630:16:CreateTableSet	32	static
+SetUserScreensDLG.c:638:16:CreateTrendsSet	32	static
+SetUserScreensDLG.c:646:16:CreateSetUserData	32	static

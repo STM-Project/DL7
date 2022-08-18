@@ -1,0 +1,4 @@
+dtos.c:9:6:dbl2stri	128	static
+dtos.c:107:6:float2stri	128	static
+dtos.c:205:6:dbl2striTrimmed	32	static
+dtos.c:228:6:float2striTrimmed	32	static

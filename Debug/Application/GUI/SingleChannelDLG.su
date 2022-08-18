@@ -1,0 +1,10 @@
+SingleChannelDLG.c:85:12:CopyHistDataToGraphPoints	32	static
+SingleChannelDLG.c:139:26:UpdateTrendData	24	static
+SingleChannelDLG.c:145:6:SetChannelValue	16	static
+SingleChannelDLG.c:247:13:_cbResetMenuDialog	152	static
+SingleChannelDLG.c:379:13:_cbDialog	80	static
+SingleChannelDLG.c:670:9:CreateSingleChannelWindow	48	static
+SingleChannelDLG.c:689:16:CreateResetMenu	32	static
+SingleChannelDLG.c:700:12:ResetAllAuxiliaryValues	48	static
+SingleChannelDLG.c:735:13:MaximizeGraph	40	static
+SingleChannelDLG.c:800:13:MinimizeGraph	40	static

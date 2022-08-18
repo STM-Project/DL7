@@ -1,0 +1,3 @@
+ChannelsSynchronization.c:14:6:InitChannelsMutex	8	static
+ChannelsSynchronization.c:19:10:TakeChannelsMutex	16	static
+ChannelsSynchronization.c:27:6:GiveChannelsMutex	8	static

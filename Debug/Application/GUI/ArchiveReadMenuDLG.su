@@ -1,0 +1,5 @@
+ArchiveReadMenuDLG.c:58:13:ARCHIVE_READ_UpdateChannelsList	136	static
+ArchiveReadMenuDLG.c:116:12:ARCHIVE_READ_UpdateChannelsSelection	32	static
+ArchiveReadMenuDLG.c:130:13:HEADER_CallbackFileHeader	24	static
+ArchiveReadMenuDLG.c:145:13:_cbArchiveReadMenu	96	static
+ArchiveReadMenuDLG.c:294:9:CreateArchiveReadMenu	24	static

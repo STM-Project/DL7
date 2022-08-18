@@ -1,0 +1,3 @@
+UpgradeBoardFirmwareDLG.c:70:13:_cbDialogCardBoot	96	static
+UpgradeBoardFirmwareDLG.c:295:9:GetBoardNumber	4	static
+UpgradeBoardFirmwareDLG.c:300:9:CreateCardBootWin	32	static

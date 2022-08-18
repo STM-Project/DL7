@@ -1,0 +1,5 @@
+SetUserCharDLG.c:63:18:LISTVIEW_CompareFloat	24	static
+SetUserCharDLG.c:70:13:_cbHeader	24	static
+SetUserCharDLG.c:85:13:_cbDialog	176	static
+SetUserCharDLG.c:349:9:CreateWindowUserChar	32	static
+SetUserCharDLG.c:356:16:CheckCorectness	88	static

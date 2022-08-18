@@ -1,0 +1,5 @@
+NSMAC.c:15:6:SaveSerialNumberToFRAM	16	static
+NSMAC.c:21:6:SaveMACToFRAM	24	static
+NSMAC.c:28:6:InitSNMAC	8	static
+NSMAC.c:34:14:GetSerialNumber	4	static
+NSMAC.c:39:6:GetMACAddress	24	static

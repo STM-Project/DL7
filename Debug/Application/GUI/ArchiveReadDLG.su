@@ -1,0 +1,9 @@
+ArchiveReadDLG.c:112:13:CURSOR_UpdatePosition	16	static
+ArchiveReadDLG.c:122:13:CURSOR_CheckPosition	16	static
+ArchiveReadDLG.c:131:13:ARCHIVE_READ_UpdateButtonsVisiblity	24	static
+ArchiveReadDLG.c:166:13:ARCHIVE_READ_UpdateLegend	72	static
+ArchiveReadDLG.c:211:13:ARCHIVE_READ_UpdateGraph	24	static
+ArchiveReadDLG.c:233:13:ARCHIVE_READ_UpdateAxisXRange	48	static
+ArchiveReadDLG.c:258:13:ARCHIVE_READ_UpdateErrorStatus	24	static
+ArchiveReadDLG.c:280:13:_cbArchiveRead	48	static
+ArchiveReadDLG.c:620:9:CreateArchiveRead	24	static

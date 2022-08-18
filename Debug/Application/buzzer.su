@@ -1,0 +1,6 @@
+buzzer.c:15:6:Buzzer_On	8	static
+buzzer.c:20:6:Buzzer_Off	8	static
+buzzer.c:25:6:BUZZER_Init	8	static
+buzzer.c:31:6:BUZZER_Beep	8	static
+buzzer.c:45:6:BUZZER_BeepOffCounter	8	static
+buzzer.c:60:6:TestBUZZER	16	static

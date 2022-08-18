@@ -1,0 +1,4 @@
+GUITasks.c:31:6:vtaskBSP	16	static
+GUITasks.c:52:6:vtaskGUI	32	static
+GUITasks.c:120:6:CreateGUITask	16	static
+GUITasks.c:125:6:CreateBSPTask	16	static

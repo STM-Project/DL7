@@ -1,0 +1,13 @@
+ComputeChannel.c:76:12:isOperator	16	static
+ComputeChannel.c:84:12:isSpecialCase	16	static
+ComputeChannel.c:92:16:getIndex	24	static
+ComputeChannel.c:102:9:CheckFormulaCorrectness	56	static
+ComputeChannel.c:147:6:convertSpecialCase	24	static
+ComputeChannel.c:177:13:putOnStack	16	static
+ComputeChannel.c:185:13:takeFromStack	16	static
+ComputeChannel.c:200:13:putOnStackNumber	16	static
+ComputeChannel.c:210:14:takeFromStackNumber	16	static
+ComputeChannel.c:226:12:precedence	16	static
+ComputeChannel.c:242:12:addSpace	16	static
+ComputeChannel.c:251:9:StriToRPN	40	static
+ComputeChannel.c:311:7:computeRPN	488	static

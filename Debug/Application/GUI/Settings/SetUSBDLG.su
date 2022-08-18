@@ -1,0 +1,5 @@
+SetUSBDLG.c:57:6:vtaskPopulateList	24	static
+SetUSBDLG.c:70:13:CreatePopulateListTask	16	static
+SetUSBDLG.c:75:6:CopyParametersFromUSB	8	static
+SetUSBDLG.c:80:13:_cbSetUSB	256	static
+SetUSBDLG.c:451:9:CreateSetUSB	24	static

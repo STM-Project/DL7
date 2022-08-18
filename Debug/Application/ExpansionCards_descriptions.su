@@ -1,0 +1,6 @@
+ExpansionCards_descriptions.c:18:14:GetExpansionCardDescription	16	static
+ExpansionCards_descriptions.c:26:13:SetIN3CardUnit	16	static
+ExpansionCards_descriptions.c:57:13:SetIN6DCardUnit	16	static
+ExpansionCards_descriptions.c:72:13:SetOUT3CardUnit	16	static
+ExpansionCards_descriptions.c:90:6:SetCardUnit	16	static
+ExpansionCards_descriptions.c:130:6:FillInputModeList	40	static

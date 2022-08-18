@@ -1,0 +1,8 @@
+SetEmailClientDLG.c:88:5:EMAIL_CheckEmailAddressCorrectness	24	static
+SetEmailClientDLG.c:111:5:EMAIL_UpdateEmailParameters	56	static
+SetEmailClientDLG.c:185:13:_cbDialogEmailParameters	56	static
+SetEmailClientDLG.c:311:13:_cbSetDialogEmailRecivers	48	static
+SetEmailClientDLG.c:378:13:_cbDialogEmailReportParameters	56	static
+SetEmailClientDLG.c:564:9:CreateSetEmailParameters	32	static
+SetEmailClientDLG.c:572:9:CreateSetEmailRecivers	32	static
+SetEmailClientDLG.c:580:9:CreateSetEmailReportParameters	32	static

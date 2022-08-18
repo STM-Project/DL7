@@ -1,0 +1,5 @@
+AlarmsDLG.c:38:6:DrawSingleAlarmCell	48	static
+AlarmsDLG.c:79:6:DrawAlarmTable	80	static
+AlarmsDLG.c:119:13:_cbAlarmsDialog	64	static
+AlarmsDLG.c:214:9:CreateAlarms	24	static
+AlarmsDLG.c:222:13:GetAlarms	24	static

@@ -1,0 +1,4 @@
+cycleEvents.c:35:6:vtaskCycleEvents	48	static
+cycleEvents.c:126:6:CreateCycleEventsTask	16	static
+cycleEvents.c:131:6:CreateNewCyclicArchive	8	static
+cycleEvents.c:143:9:ResetCycleTotalizers	24	static

@@ -1,0 +1,17 @@
+skins.c:42:6:SKINS_SetDefaultFonts	8	static
+skins.c:59:6:SKINS_SetLightSkin	392	static
+skins.c:276:6:SKINS_SetDarkSkin	392	static
+skins.c:494:6:SKINS_UpdateCalendar	16	static
+skins.c:506:6:MULTIEDIT_SetSkin	16	static
+skins.c:520:6:EDIT_SetSkin	16	static
+skins.c:534:6:DROPDOWN_SetTextSkin	16	static
+skins.c:553:6:TREEVIEW_SetImagesSkin	16	static
+skins.c:574:6:ICONVIEW_SetSkinColors	16	static
+skins.c:592:6:LISTWHEEL_SetSkinColors	16	static
+skins.c:610:11:SKINS_GetTextColor	4	static
+skins.c:618:11:SKINS_GetBkColor	4	static
+skins.c:626:6:GRAPH_SetSkinColors	16	static
+skins.c:640:6:SKINS_InitGraphics	8	static
+skins.c:662:6:SKINS_ChangeGraphics	8	static
+skins.c:680:6:SKINS_GetStatus	4	static
+skins.c:685:6:SKINS_SetStatus	16	static

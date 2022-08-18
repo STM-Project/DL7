@@ -1,0 +1,4 @@
+outputExpansionCards.c:24:14:ConvertToElectricValue	24	static
+outputExpansionCards.c:52:13:SetOutputChannelStatus	16	static
+outputExpansionCards.c:60:13:SetOutputChannelValue	16	static
+outputExpansionCards.c:95:6:UpdateOutputExpansionCardsValues	16	static

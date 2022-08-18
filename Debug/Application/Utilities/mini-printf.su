@@ -1,0 +1,6 @@
+mini-printf.c:49:1:mini_strlen	24	static
+mini-printf.c:57:1:mini_itoa	48	static
+mini-printf.c:107:6:_putc	16	static
+mini-printf.c:101:1:mini_vsnprintf	88	static
+mini-printf.c:116:6:_puts	32	static
+mini-printf.c:190:1:mini_snprintf	24	static

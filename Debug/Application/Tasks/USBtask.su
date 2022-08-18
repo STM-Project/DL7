@@ -1,0 +1,11 @@
+USBtask.c:36:13:StopUSB	8	static
+USBtask.c:44:13:DeleteFile	8	static
+USBtask.c:50:13:SendMessageAboutCopyStatus	16	static
+USBtask.c:58:13:vtaskCopyActualArchives	312	static
+USBtask.c:106:13:vtaskCopyArchive	24	static
+USBtask.c:116:13:vtaskCopyParToUSB	72	static
+USBtask.c:132:13:vtaskCopyNewParToSD	48	static
+USBtask.c:163:5:GetUSBState	4	static
+USBtask.c:169:6:vtaskUSB	32	static
+USBtask.c:297:6:CreateUSBTask	16	static
+USBtask.c:302:6:sendUSBEvent	16	static

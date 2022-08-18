@@ -1,0 +1,8 @@
+InfoDLG.c:61:6:loadDeviceDescpyptionToRAM	848	static
+InfoDLG.c:75:6:saveDeviceDescpyptionToSD	568	static
+InfoDLG.c:130:13:_cbInfoMoreDialog	40	static
+InfoDLG.c:217:13:_cbInfoHardwareDialog	72	static
+InfoDLG.c:321:13:_cbInfoDialog	104	static
+InfoDLG.c:453:6:CreateInfoMore	24	static
+InfoDLG.c:459:6:CreateInfoHardware	32	static
+InfoDLG.c:467:9:CreateInfo	24	static

@@ -1,0 +1,3 @@
+SetConfirmDLG.c:29:13:selectNewWindow	16	static
+SetConfirmDLG.c:99:13:_cbSetConfirmDialog	216	static
+SetConfirmDLG.c:296:6:CreateSetConfirm	32	static

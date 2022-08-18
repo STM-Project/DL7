@@ -1,0 +1,13 @@
+GUI_X_OS.c:78:5:GUI_X_GetTime	8	static
+GUI_X_OS.c:83:6:GUI_X_Delay	16	static
+GUI_X_OS.c:98:6:GUI_X_Init	4	static
+GUI_X_OS.c:110:6:GUI_X_ExecIdle	4	static
+GUI_X_OS.c:131:6:GUI_X_InitOS	24	static
+GUI_X_OS.c:153:6:GUI_X_Unlock	8	static
+GUI_X_OS.c:158:6:GUI_X_Lock	8	static
+GUI_X_OS.c:164:5:GUI_X_GetTaskId	8	static
+GUI_X_OS.c:170:6:GUI_X_WaitEvent	8	static
+GUI_X_OS.c:176:6:GUI_X_SignalEvent	8	static
+GUI_X_OS.c:195:6:GUI_X_Log	16	static
+GUI_X_OS.c:196:6:GUI_X_Warn	16	static
+GUI_X_OS.c:197:6:GUI_X_ErrorOut	16	static

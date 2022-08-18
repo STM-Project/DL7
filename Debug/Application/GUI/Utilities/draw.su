@@ -1,0 +1,9 @@
+draw.c:5:6:DRAW_Polygon	24	static
+draw.c:16:6:DRAW_Circle	24	static
+draw.c:28:6:DRAW_Line	24	static
+draw.c:37:6:DRAW_Rect	40	static
+draw.c:56:6:DRAW_RoundedFrame	32	static
+draw.c:62:6:DRAW_RoundedRect	32	static
+draw.c:71:6:DRAW_Text	24	static
+draw.c:90:6:DRAW_I32Number	24	static
+draw.c:101:6:DRAW_FloatNumber	32	static

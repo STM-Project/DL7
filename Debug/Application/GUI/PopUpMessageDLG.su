@@ -1,0 +1,4 @@
+PopUpMessageDLG.c:54:13:_cbPopUpMessage	96	static
+PopUpMessageDLG.c:115:13:_cbPopUpConfirmMessage	40	static
+PopUpMessageDLG.c:186:6:CreateMessage	56	static
+PopUpMessageDLG.c:239:9:CreateConfirmMessage	48	static

@@ -1,0 +1,8 @@
+sdmmc.c:33:6:MX_SDMMC1_SD_Init	4	static
+sdmmc.c:55:6:HAL_SD_MspInit	240	static
+sdmmc.c:111:6:HAL_SD_MspDeInit	16	static
+sdmmc.c:144:6:SDCard_Deinit	40	static
+sdmmc.c:167:6:SDCard_Init	8	static
+sdmmc.c:172:6:SetSDCardPinTest	16	static
+sdmmc.c:177:6:ResetSDCardPinTest	8	static
+sdmmc.c:183:6:ToogleSDCardPin	8	static

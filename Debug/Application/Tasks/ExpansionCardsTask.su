@@ -1,0 +1,5 @@
+ExpansionCardsTask.c:30:6:vtaskSPI	56	static
+ExpansionCardsTask.c:236:6:CreateExpansionCardsTask	16	static
+ExpansionCardsTask.c:241:13:IOBoards_PowerUpAllBoards	16	static
+ExpansionCardsTask.c:251:6:ActivateCalibrationMode	4	static
+ExpansionCardsTask.c:256:6:DeactivateCalibrationMode	4	static

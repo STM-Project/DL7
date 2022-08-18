@@ -1,0 +1,4 @@
+ChannelsTask.c:42:6:vtaskChannelsManagment	48	static
+ChannelsTask.c:299:6:CreateChannelsTask	16	static
+ChannelsTask.c:304:14:UpdateDemoValue	8	static
+ChannelsTask.c:315:13:SetTimeCorrectionForTotalizers	24	static

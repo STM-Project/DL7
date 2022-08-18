@@ -1,0 +1,5 @@
+mbtcp.c:53:6:EventPost_ex	320	static
+mbtcp.c:229:7:recv_callback_ex	32	static
+mbtcp.c:275:6:modbus_thread	40	static
+mbtcp.c:320:6:modbusClientThread	32	static
+mbtcp.c:344:6:modbus_init	16	static

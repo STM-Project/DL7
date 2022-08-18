@@ -1,0 +1,9 @@
+modbus.c:71:1:vtaskModbusRTU	24	static
+modbus.c:127:6:CreateModbusRTUTask	16	static
+modbus.c:139:14:eMBRegInputCB	88	static
+modbus.c:208:14:eMBRegHoldingCB	96	static
+modbus.c:298:14:eMBRegCoilsCB	56	static
+modbus.c:352:14:eMBRegDiscreteCB	48	static
+modbus.c:395:14:eMBDiagCB	4	static
+modbus.c:401:6:MODBUS_TimerExpired	8	static
+modbus.c:408:6:MODBUS_UartHandler	8	static

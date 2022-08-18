@@ -1,0 +1,3 @@
+StartUpDLG.c:18:6:loadStarUpWindowGraphicsToRAM	848	static
+StartUpDLG.c:29:13:_cbSplashScreenDialog	24	static
+StartUpDLG.c:48:9:CreateSplashScreenDLG	24	static

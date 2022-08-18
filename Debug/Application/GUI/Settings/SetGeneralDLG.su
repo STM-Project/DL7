@@ -1,0 +1,13 @@
+SetGeneralDLG.c:185:6:SERVICE_RestartDevice	8	static
+SetGeneralDLG.c:192:6:SERVICE_RestoreFactoryDefaults	8	static
+SetGeneralDLG.c:199:13:CALENDAR_Refresh	72	static
+SetGeneralDLG.c:210:13:_cbMainWindow	48	static
+SetGeneralDLG.c:352:13:_cbLanguageWindow	56	static
+SetGeneralDLG.c:521:13:_cbDisplayWindow	48	static
+SetGeneralDLG.c:680:13:_cbTimeAndDateWindow	112	static
+SetGeneralDLG.c:894:13:_cbServiceWindow	248	static
+SetGeneralDLG.c:1071:9:CreateSetGeneral	24	static
+SetGeneralDLG.c:1078:16:CreateLanguageWindow	32	static
+SetGeneralDLG.c:1085:16:CreateDisplayWindow	32	static
+SetGeneralDLG.c:1092:16:CreateTimeAndDateWindow	32	static
+SetGeneralDLG.c:1099:16:CreateServiceWindow	32	static

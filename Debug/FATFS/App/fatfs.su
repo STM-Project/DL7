@@ -1,0 +1,8 @@
+fatfs.c:40:6:MX_FATFS_Init	8	static
+fatfs.c:59:7:get_fattime	40	static
+fatfs.c:78:6:FATFS_GetFileDate	304	static
+fatfs.c:105:6:FATFS_CopyFileDateToString	48	static
+fatfs.c:119:7:FATFS_GetFileSize	304	static
+fatfs.c:133:5:FATFS_GetFreeSpaceOfSD	32	static
+fatfs.c:150:5:FATFS_CopyFile	1152	static
+fatfs.c:186:5:FREERTOS_CopyFile	1152	static

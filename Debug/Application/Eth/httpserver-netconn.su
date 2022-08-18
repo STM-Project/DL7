@@ -1,0 +1,6 @@
+httpserver-netconn.c:60:14:LoadFileToRAM	864	static
+httpserver-netconn.c:72:6:InitWebsiteFiles	8	static
+httpserver-netconn.c:86:13:http_server_netconn_thread	392	static
+httpserver-netconn.c:155:6:http_server_netconn_init	16	static
+httpserver-netconn.c:165:6:setWebLoginTimer	8	static
+httpserver-netconn.c:174:6:logOffPeer	4	static

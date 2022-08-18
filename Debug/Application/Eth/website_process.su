@@ -1,0 +1,4 @@
+website_process.c:12:5:measurement_fulfill	200	static
+website_process.c:54:5:measurement_fulfill_value	184	static
+website_process.c:95:5:bar_fulfill	32	static
+website_process.c:113:5:main_fulfill	48	static

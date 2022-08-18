@@ -1,0 +1,3 @@
+lan8720A.c:11:19:PHY_Init	24	static
+lan8720A.c:52:9:PHY_GetLinkStatus	24	static
+lan8720A.c:67:6:PHY_UpdateMAC	120	static

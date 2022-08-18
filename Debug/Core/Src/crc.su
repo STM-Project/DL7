@@ -1,0 +1,6 @@
+crc.c:51:6:MX_CRC_Init	8	static
+crc.c:77:6:HAL_CRC_MspInit	24	static
+crc.c:93:6:HAL_CRC_MspDeInit	16	static
+crc.c:111:6:calculateCRC	32	static
+crc.c:118:6:generateCRC	32	static
+crc.c:129:6:hashCRC	24	static

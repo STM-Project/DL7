@@ -1,0 +1,6 @@
+UserTablesDLG.c:42:13:_cbUserTablesDialog	40	static
+UserTablesDLG.c:146:13:_cbTableDialog	56	static
+UserTablesDLG.c:324:9:CreateUserTables	24	static
+UserTablesDLG.c:332:16:CreateUserTableDLG	56	static
+UserTablesDLG.c:414:6:openSingleChannelWindow	8	static
+UserTablesDLG.c:424:6:TABLE_SetText	16	static

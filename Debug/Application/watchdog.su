@@ -1,0 +1,4 @@
+watchdog.c:21:6:WatchdogRefresh	8	static
+watchdog.c:26:6:SetWatchdogFlag	4	static
+watchdog.c:31:6:vtaskWatchdog	24	static
+watchdog.c:65:6:CreateWatchdogTask	16	static

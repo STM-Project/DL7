@@ -1,0 +1,6 @@
+screenSaver.c:32:6:vScreenSaverCallback	24	static
+screenSaver.c:53:6:ScreenSaverInit	24	static
+screenSaver.c:71:6:ScreenSaverDeInit	16	static
+screenSaver.c:86:6:RestartScreenSaver	16	static
+screenSaver.c:93:6:ResetScreenSaverTimer	24	static
+screenSaver.c:119:6:StartScreenSaverTimer	24	static

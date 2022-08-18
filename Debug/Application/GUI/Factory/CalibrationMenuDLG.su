@@ -1,0 +1,7 @@
+CalibrationMenuDLG.c:32:13:SetCalibrationButtonsVisibility	24	static
+CalibrationMenuDLG.c:55:13:_cbCalibariotnMenuDialog	32	static
+CalibrationMenuDLG.c:174:13:_cbHartConfigMenuDialog	32	static
+CalibrationMenuDLG.c:284:13:_cbFirmwareUpgradeMenuDialog	32	static
+CalibrationMenuDLG.c:379:9:CreateCalibarationMenu	32	static
+CalibrationMenuDLG.c:388:9:CreateHartConfigMenu	32	static
+CalibrationMenuDLG.c:397:9:CreateFirmwareUpgradeMenu	32	static

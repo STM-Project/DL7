@@ -1,0 +1,10 @@
+SetFirmwareUpdateDLG.c:49:12:CleanFolder	480	static
+SetFirmwareUpdateDLG.c:87:12:CleansFolderOnSD	8	static
+SetFirmwareUpdateDLG.c:98:12:ChcekFolder	432	static
+SetFirmwareUpdateDLG.c:125:12:CopyFolder	616	static
+SetFirmwareUpdateDLG.c:174:13:CopyDescriptionFile	304	static
+SetFirmwareUpdateDLG.c:189:13:vtaskNewFileSystem	160	static
+SetFirmwareUpdateDLG.c:240:6:CreatevTaskNewFileSystem	24	static
+SetFirmwareUpdateDLG.c:245:13:SERVICE_UpdateFileSystem	16	static
+SetFirmwareUpdateDLG.c:259:13:_cbSetFirmwareUpdateWindow	48	static
+SetFirmwareUpdateDLG.c:375:9:CreateSetFirmwareUpdateWindow	24	static

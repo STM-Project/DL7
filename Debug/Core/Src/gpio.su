@@ -1,0 +1,2 @@
+gpio.c:45:6:MX_GPIO_Init	64	static
+gpio.c:182:6:MX_PowerFail_Init	32	static

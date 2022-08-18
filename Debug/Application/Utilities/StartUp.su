@@ -1,0 +1,4 @@
+StartUp.c:15:6:STARTUP_Init	8	static
+StartUp.c:21:10:STARTUP_WaitForBits	24	static
+StartUp.c:30:6:STARTUP_SetBits	16	static
+StartUp.c:35:6:STARTUP_ClaerBits	16	static

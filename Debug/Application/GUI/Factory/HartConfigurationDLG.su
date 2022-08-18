@@ -1,0 +1,3 @@
+HartConfigurationDLG.c:75:12:StringToHartAddr	24	static
+HartConfigurationDLG.c:100:6:_cbDialogCAL_HART	976	static
+HartConfigurationDLG.c:378:9:CreateHARTConfigurationWin	32	static

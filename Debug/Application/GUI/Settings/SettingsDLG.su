@@ -1,0 +1,4 @@
+SettingsDLG.c:59:13:_cbSettingsDialog	64	static
+SettingsDLG.c:235:9:CreateSettings	24	static
+SettingsDLG.c:243:6:loadSettingsWindowLightGraphicsToRAM	8	static
+SettingsDLG.c:255:6:loadSettingsWindowDarkGraphicsToRAM	8	static

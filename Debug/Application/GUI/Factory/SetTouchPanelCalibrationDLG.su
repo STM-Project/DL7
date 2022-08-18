@@ -1,0 +1,4 @@
+SetTouchPanelCalibrationDLG.c:35:13:TP_CalculateLinearCoefs	32	static
+SetTouchPanelCalibrationDLG.c:41:13:TP_CalculateNewCoefs	88	static
+SetTouchPanelCalibrationDLG.c:65:13:_cbDialogTPCal	56	static
+SetTouchPanelCalibrationDLG.c:157:9:CreateCalibrateTouchPanel	16	static

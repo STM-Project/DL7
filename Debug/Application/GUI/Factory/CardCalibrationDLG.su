@@ -1,0 +1,8 @@
+CardCalibrationDLG.c:77:6:SetFirstReferenceValue	16	static
+CardCalibrationDLG.c:126:6:SetSecondReferenceValue	16	static
+CardCalibrationDLG.c:226:6:_cbDialogCAL	56	static
+CardCalibrationDLG.c:407:13:_cbDialogBoardCalibration	80	static
+CardCalibrationDLG.c:738:13:_cbDialogSummary	168	static
+CardCalibrationDLG.c:787:9:CreateCalibrationWin	40	static
+CardCalibrationDLG.c:799:16:CreateBoardCalibrationWin	24	static
+CardCalibrationDLG.c:807:16:CreateCalibrationSummaryWin	24	static

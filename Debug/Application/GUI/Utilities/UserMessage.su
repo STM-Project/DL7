@@ -1,0 +1,4 @@
+UserMessage.c:14:6:USERMESSAGE_ChangeWinTitle	16	static
+UserMessage.c:23:6:USERMESSAGE_RefreshArchiveID	16	static
+UserMessage.c:33:6:USERMESSAGE_Archive	16	static
+UserMessage.c:42:6:USERMESSAGE_SendBroadcast	32	static

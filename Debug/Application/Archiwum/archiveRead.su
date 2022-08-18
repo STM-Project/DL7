@@ -1,0 +1,13 @@
+archiveRead.c:35:16:ARCHIVE_READ_DecodeStatus	16	static
+archiveRead.c:63:12:ARCHIVE_READ_TakeSemaphore	8	static
+archiveRead.c:82:13:ARCHIVE_READ_GiveSemaphore	8	static
+archiveRead.c:90:6:ARCHIVE_READ_ResetSelectedChannels	16	static
+archiveRead.c:100:6:ARCHIVE_READ_Initialize	24	static
+archiveRead.c:143:6:ARCHIVE_READ_Deinitalize	16	static
+archiveRead.c:155:12:ARCHIVE_READ_CheckVersion	32	static
+archiveRead.c:183:5:ARCHIVE_READ_ReadHeader	888	static
+archiveRead.c:252:6:ARCHIVE_READ_UpdateChannelsHeader	16	static
+archiveRead.c:279:6:ARCHIVE_ReadPackage	632	static
+archiveRead.c:377:5:ARCHIVE_READ_SelectPrevPackage	616	static
+archiveRead.c:438:5:ARCHIVE_READ_SelectNextPackage	680	static
+archiveRead.c:536:6:ARCHIVE_READ_SelectLastPackage	600	static

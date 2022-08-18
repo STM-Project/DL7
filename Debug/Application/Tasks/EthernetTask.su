@@ -1,0 +1,3 @@
+EthernetTask.c:33:13:DNS_Init	16	static
+EthernetTask.c:45:6:vtaskEth	16	static
+EthernetTask.c:72:6:CreateEthTask	16	static

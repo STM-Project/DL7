@@ -1,0 +1,8 @@
+portserial.c:35:13:MODBUS_RTS_Set	8	static
+portserial.c:40:13:MODBUS_RTS_Reset	8	static
+portserial.c:47:1:vMBPortSerialEnable	16	static
+portserial.c:79:10:ComSetBaudrate	16	static
+portserial.c:113:1:xMBPortSerialInit	8	static
+portserial.c:120:1:xMBPortSerialPutByte	16	static
+portserial.c:131:1:xMBPortSerialGetByte	16	static
+portserial.c:142:1:vMBPortSerialClose	8	static

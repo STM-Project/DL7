@@ -1,0 +1,12 @@
+spi.c:33:6:MX_SPI2_Init	8	static
+spi.c:75:6:MX_SPI5_Init	8	static
+spi.c:117:6:HAL_SPI_MspInit	240	static
+spi.c:235:6:HAL_SPI_MspDeInit	16	static
+spi.c:286:6:ShiftReg_SPI_Init	8	static
+spi.c:291:6:SPI_Transmit_IT	16	static,ignoring_inline_asm
+spi.c:303:6:HAL_SPI_ErrorCallback	16	static
+spi.c:312:19:IOBoards_SPI_Transmit	16	static
+spi.c:317:19:IOBoards_SPI_Receive	16	static
+spi.c:322:22:SPI_GetState	8	static
+spi.c:327:6:MX_SPI5_DeInit	8	static
+spi.c:332:19:SPI_Stop	8	static

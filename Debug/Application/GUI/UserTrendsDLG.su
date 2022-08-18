@@ -1,0 +1,9 @@
+UserTrendsDLG.c:54:12:UpdateLinePoints	40	static
+UserTrendsDLG.c:109:26:RefreshTrend	32	static
+UserTrendsDLG.c:114:13:GRAPH_Refresh	24	static
+UserTrendsDLG.c:135:13:USER_GRAPH_Minimize	24	static
+UserTrendsDLG.c:149:13:USER_GRAPH_Maximize	24	static
+UserTrendsDLG.c:187:13:_cbUserTrendsDialog	32	static
+UserTrendsDLG.c:282:13:_cbSingleTrendDialog	72	static
+UserTrendsDLG.c:553:9:CreateUserTrends	24	static
+UserTrendsDLG.c:563:16:CreateUserTrend	48	static

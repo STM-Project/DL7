@@ -1,0 +1,10 @@
+alarms.c:54:6:vtaskAlarms	248	static
+alarms.c:146:6:CreateAlarmsTask	16	static
+alarms.c:151:16:CheckAlarm	16	static
+alarms.c:189:13:ManageAlarm	32	static
+alarms.c:226:13:UpdateOutputs	16	static
+alarms.c:238:16:AckAllAlarms	24	static
+alarms.c:254:17:SetChannelColor	16	static
+alarms.c:273:10:ALARMS_GetColor	16	static
+alarms.c:288:6:ALARMS_AckAll	8	static
+alarms.c:293:9:ALARMS_GetState	24	static

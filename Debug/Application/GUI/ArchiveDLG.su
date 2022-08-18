@@ -1,0 +1,6 @@
+ArchiveDLG.c:99:13:_cbArchiveDialog	104	static
+ArchiveDLG.c:343:13:_cbArchiveValuesDialog	80	static
+ArchiveDLG.c:400:13:_cbArchiveTotalizersDialog	80	static
+ArchiveDLG.c:465:9:CreateArchive	24	static
+ArchiveDLG.c:474:9:CreateArchiveValuesWindow	32	static
+ArchiveDLG.c:481:9:CreateArchiveTotalizersWindow	32	static

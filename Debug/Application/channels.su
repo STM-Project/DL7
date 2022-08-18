@@ -1,0 +1,3 @@
+channels.c:23:6:CHANNELS_Initialize	24	static
+channels.c:86:6:GetChannel	16	static
+channels.c:91:6:SetChannel	16	static
